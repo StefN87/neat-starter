@@ -2,7 +2,7 @@ items:
   - text: Home
     url: "#"
   - text: Solutions
-    url: page1
+    url: /page1
   - text: Menu Three
     url: "#"
   - text: Blog
